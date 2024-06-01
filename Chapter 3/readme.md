@@ -1,0 +1,1 @@
+Chapter 3 uses the python interpreter directly, so I put everything in .py scripts instead.
