@@ -6,7 +6,6 @@ def search(title) :
     url = "http://archive.org/advancedsearch.php"
     params = {
         "q": f"title:({title})",
-        #"q": f"isbn:({title})", # testing query
         "output": "json",
         "fl[]": ['identifier', 'title'],
         "rows": 50,
