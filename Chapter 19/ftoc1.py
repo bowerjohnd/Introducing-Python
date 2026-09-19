@@ -1,3 +1,5 @@
+# 19-01 document and variable names
+
 def ftoc(f_temp):
     "convert Fahrenheit temperature <f_temp> to Celsius and return it."
     
