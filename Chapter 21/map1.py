@@ -1,4 +1,4 @@
-# 21-3 Map from Shapefile
+# 21-3 Map from shapefile
 
 # warped and bugged (as expected from the book)
 # source file from: 
