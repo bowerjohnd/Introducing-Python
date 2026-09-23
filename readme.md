@@ -8,6 +8,6 @@ Most of Introducing Python is written in the interpreter. So, where necessary, I
 
 As of chapter 19, I have decided to name files correctly and include the book example number in a comment as the first line of the code. I have also started committing each file separately with the commit message being the book example number and the topic the file is associated with. Unfortunatly this will jumble up all the files to be in alphabetical order, however, things will work better with imports and easier to find the subjects in the commit messages.
 
-Chapter 22 is the last chapter, however, Appendix C is like a whole other chapter, about aysnc. Therefore, I will not consider the book completed until Appendix C is done.
+Chapter 22 is the last chapter, however, Appendix C has some aysnc examples and information.
 
 "That's no ordinary rabbit... That's the most foul, cruel, and bad-tempered rodent you ever set eyes on!" - Tim the Enchanter
